@@ -2,3 +2,7 @@ Open -e Test
 Change 1 on the master branch
 Open -e Test
 Change 1 on the master branch
+Open -e Test
+Change 2 on the master branch
+Open -e Test
+Change 2 on MyBranch
